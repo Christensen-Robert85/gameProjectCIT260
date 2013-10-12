@@ -30,6 +30,9 @@ public class GameProject1 {
         mysteryWord myMysteryWord = new mysteryWord();
         myMysteryWord.chooseLetter();
         myMysteryWord.displayChoice();
+        letterBank myLetterBank = new letterBank();
+        myLetterBank.makeLetterBank();
+        myLetterBank.displayLetterBank();
     }
     
     public void getName() {
