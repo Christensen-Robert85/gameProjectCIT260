@@ -58,7 +58,7 @@ public class mysteryWord {
     }
     
     public String getWord() {
-        String hangmanWord = "mississippi"; // we will need to modify this so it uploads a random word from a file or array
+        String hangmanWord = "baseball"; // we will need to modify this so it uploads a random word from a file or array
         return hangmanWord;
 }    
 
