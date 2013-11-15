@@ -29,7 +29,7 @@ public class mysteryWord {
         Scanner letterScanner = new Scanner(System.in);
         ErrorHandling errorHandling = new ErrorHandling();
     
-        String letter = "0";
+        String letter = "1";
         
         boolean valid = false;
         while (!valid) {  
