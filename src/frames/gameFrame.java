@@ -9,6 +9,11 @@ package frames;
  * @author Robert
  */
 public class gameFrame extends javax.swing.JFrame {
+    static String gallowsString;
+
+    static String getGallowsString() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 
     /**
      * Creates new form gameFrame

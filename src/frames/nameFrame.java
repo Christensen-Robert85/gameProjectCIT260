@@ -9,6 +9,7 @@ package frames;
  * @author Robert
  */
 public class nameFrame extends javax.swing.JFrame {
+    static String nameOfPlayer;
 
     /**
      * Creates new form nameFrame
